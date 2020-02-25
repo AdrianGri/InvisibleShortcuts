@@ -1,2 +1,2 @@
 # InvisibleShortcuts
-InvisibleShortcuts hides lockscreen shortcuts while keeping functionality
+InvisibleShortcuts hides the shortcuts on the lockscreen while keeping functionality
