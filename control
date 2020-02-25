@@ -1,0 +1,9 @@
+Package: com.adriandev.invisibleshortcuts
+Name: InvisibleShortcuts
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hides the lockscreen shortcuts while keeping functionality
+Maintainer: AdrianDev
+Author: AdrianDev
+Section: Tweaks
